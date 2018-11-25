@@ -3,3 +3,8 @@ This is Madhu
 This is Sravanthi
 This is Nivi
 This is Dishi
+<code>
+x = 5;<br>
+y = 6;<br>
+z = x + y;
+</code>
